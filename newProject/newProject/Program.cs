@@ -10,6 +10,7 @@ namespace newProject
     {
         static void Main(string[] args)
         {
+            Console.Write("?");
         }
     }
 }
